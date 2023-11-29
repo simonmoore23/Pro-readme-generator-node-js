@@ -7,17 +7,17 @@
 * [Credits](#credits)
 * [License](#license)
 ## Description 
-To create a CLI template for creating README docs
+My motivation for this proejct was to create a template for my future README's.
 
-I built this project to spped up the process of creating README docs
+I built this project using javascript and node.js
 
-This project will help me to create README's quickly and efficiently
+This project helps me to create README's quickly and efficiently
 
-I learned about nodejs and enhanced my JS knowledge
+I learned about nodejs as well as strenghtening my JS knowledge
 ## Installation 
-There is no install required
+N/A
 ## Usage 
-Download the project to your local drive, navigate to the folder in your CLI and then run "node index.js"
+Download the project and open the folder in the command line then run node "index.js"
 ## Credits 
 N/A
 ## License
