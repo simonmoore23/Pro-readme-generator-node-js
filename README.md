@@ -6,6 +6,10 @@
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
+
+GitHub Repo URL: https://github.com/simonmoore23/Pro-readme-generator-node-js
+Screencastify recording URL: https://drive.google.com/file/d/1ErC0bFEcUvK6GwZC7UfJ-r5n5cTBBVu-/view 
+
 ## Description 
 My motivation for this proejct was to create a template for my future README's.
 
